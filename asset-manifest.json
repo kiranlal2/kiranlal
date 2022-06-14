@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/kiranlal2/kiranlal.git/static/css/main.3ad3d0cb.css",
+    "main.js": "/kiranlal2/kiranlal.git/static/js/main.f332504e.js",
+    "static/media/kiranlal_yell.png": "/kiranlal2/kiranlal.git/static/media/kiranlal_yell.679d4ccaab496be41176.png",
+    "static/media/port.jpg": "/kiranlal2/kiranlal.git/static/media/port.19cc494aec37d0b45c65.jpg",
+    "static/media/kiranlal_porto.png": "/kiranlal2/kiranlal.git/static/media/kiranlal_porto.a9e01f7bc916a5c507c0.png",
+    "static/media/web_html5.svg": "/kiranlal2/kiranlal.git/static/media/web_html5.c73cbf8350158c0f46f00525c9e96a9a.svg",
+    "static/media/kiranlal_cv.pdf": "/kiranlal2/kiranlal.git/static/media/kiranlal_cv.2b6f5f8ed5d24e8d1773.pdf",
+    "static/media/imaginative.png": "/kiranlal2/kiranlal.git/static/media/imaginative.8766753eb5a4f7612926.png",
+    "static/media/web_react.svg": "/kiranlal2/kiranlal.git/static/media/web_react.ee5e4a8fbec192b9a6d421a57ddd2c2b.svg",
+    "static/media/adobe_after_aftereffects.svg": "/kiranlal2/kiranlal.git/static/media/adobe_after_aftereffects.3352089e38c81c2baf070f2fe0fea9e0.svg",
+    "static/media/adobe_photoshop.svg": "/kiranlal2/kiranlal.git/static/media/adobe_photoshop.10bcc0296d84c37786c8b0382baf001e.svg",
+    "static/media/sketch.svg": "/kiranlal2/kiranlal.git/static/media/sketch.5b2f19a5fcf38e7624f44fb93564f204.svg",
+    "static/media/adobe_animate.svg": "/kiranlal2/kiranlal.git/static/media/adobe_animate.39bc8700f87b8e65681a421f7bc8b14d.svg",
+    "static/media/adobe_premier_pro.svg": "/kiranlal2/kiranlal.git/static/media/adobe_premier_pro.d599eee43711fd44cc6434e7c2242b0d.svg",
+    "static/media/wordpress.svg": "/kiranlal2/kiranlal.git/static/media/wordpress.51c6eaacf7b57476b43f0851b3e2911a.svg",
+    "static/media/figma.svg": "/kiranlal2/kiranlal.git/static/media/figma.6c172f30907cd9e655cfb14d643d8278.svg",
+    "static/media/adobe_illustrator.svg": "/kiranlal2/kiranlal.git/static/media/adobe_illustrator.9c38e42f1e061872cd136378a625e8a9.svg",
+    "static/media/web_php.svg": "/kiranlal2/kiranlal.git/static/media/web_php.5fda4c92831057e9824c37b5f53e66ea.svg",
+    "static/media/adobe_xd.svg": "/kiranlal2/kiranlal.git/static/media/adobe_xd.c8add253d800fe4c22c644b9ab11631a.svg",
+    "static/media/experience.svg": "/kiranlal2/kiranlal.git/static/media/experience.853d76f8c720289fb6460410db8ebf59.svg",
+    "static/media/web_js.svg": "/kiranlal2/kiranlal.git/static/media/web_js.e48a9464838b1afeb49357c3587fde76.svg",
+    "index.html": "/kiranlal2/kiranlal.git/index.html",
+    "static/media/web_css3.svg": "/kiranlal2/kiranlal.git/static/media/web_css3.f2163226131819de387697ce0ca3390e.svg",
+    "main.3ad3d0cb.css.map": "/kiranlal2/kiranlal.git/static/css/main.3ad3d0cb.css.map",
+    "main.f332504e.js.map": "/kiranlal2/kiranlal.git/static/js/main.f332504e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad3d0cb.css",
+    "static/js/main.f332504e.js"
+  ]
+}
