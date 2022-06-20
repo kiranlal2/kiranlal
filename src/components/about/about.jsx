@@ -1,12 +1,12 @@
 import React from 'react'
 import './about.css'
-import Mypic from '../../assets/kiranlal_porto.png'
+import Mypic from '../../assets/kiranlal_pink.png'
 
 const about = () => {
   return (
     <section id='about'>
       <h5>Get to Know</h5>
-      <h2>ABOUT</h2>
+      <h2>Me</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -16,11 +16,9 @@ const about = () => {
         </div>
         <div className="about__content">
           <p>
-            Accomplished Creative Thinker, Designer, and Problem Solver. I have designed user experiences for products, 
-            services, and marketing initiatives for many different organizations/ clients/ brands, design agencies.
-            Experienced Design Specialist with a demonstrated history of working in the information technology and services 
-            industry. Skilled in Graphic Design and Web Developer. Strong arts and design professional with a Bachelor's degree 
-            focused in Digital Communication and Media/Multimedia from ICAT Design & Media College.
+          I enjoy my work and consider myself to be a creative thinker, designer, and problem solver. I enjoy making my designs unique yet user-friendly for products, services, and marketing initiatives for many different organizations, clients, brands, and design agencies. I have extensive experience as an innovative and creative Design Specialist working in the information technology and services industry. 
+          <br /><br />
+          My forte is UI/UX, Digital Marketing, Graphic Design, and Web Development with strong art and design sensibility to tell a unique story with each design. My educational background is Bachelor’s in Digital Communication and Media/Multimedia from ICAT Design & Media College.
           </p>
         </div>
       </div>

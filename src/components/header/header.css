@@ -61,7 +61,7 @@ header {
 /* ===================My Pic================= */
 
 .my_portrait {
-    background: linear-gradient(var(--color-primary-veriant), transparent);
+    /* background: linear-gradient(var(--color-primary-veriant), transparent); */
     width: 22rem;
     height: 30rem;
     position: absolute;
