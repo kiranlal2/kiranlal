@@ -22,7 +22,7 @@
     margin: 10px;
     background: linear-gradient(var(--color-primary-veriant), transparent);
     border-radius: 20px;
-    box-shadow: rgba(246, 255, 0, 0.35) 0px 5px 5px;
+    box-shadow: #f4abc4(246, 255, 0, 0.35) 0px 5px 5px;
 }
 .experience__myschool h5{
     color: var(--color-bg);

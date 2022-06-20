@@ -5,7 +5,8 @@
 }
 
 .portfolio__items {
-    background: var(--color-bg-veriant);
+    background: var(--color-primary-veriant);
+    color: var(--color-bg-veriant);
     padding: 1.5rem;
     border-radius: 2rem;
     border: 1px solid transparent;

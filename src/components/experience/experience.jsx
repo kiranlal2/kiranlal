@@ -1,6 +1,6 @@
 import React from 'react'
 import './experience.css'
-import Experience from '../../assets/experience.svg'
+import Experience from '../../assets/experience2.svg'
 
 const experience = () => {
   return (

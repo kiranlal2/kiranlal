@@ -1,6 +1,6 @@
 import React from 'react'
 import './skills.css'
-import Imaginative from '../../assets/imaginative.png'
+import Imaginative from '../../assets/skills.svg'
 import Html5 from '../../assets/web_html5.svg'
 import Css3 from '../../assets/web_css3.svg'
 import Js from '../../assets/web_js.svg'
